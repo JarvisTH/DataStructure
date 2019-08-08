@@ -1,4 +1,4 @@
-package com.jarvis.binartTree;
+package com.jarvis.binaryTree.binarySearchTree;
 
 import com.jarvis.link.Item;
 
